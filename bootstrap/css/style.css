@@ -1,6 +1,16 @@
 body{
 	overflow-x: hidden;
 }
+.iconimg{
+		background-image: url("../img/dhiru1.png");
+    background-size: 100% 100%;
+	  background-repeat: no-repeat;
+
+	  border-radius: 20px;
+
+	  height: 100px;
+
+}
 .navbar{
 	background:none;
 	background-color: rgba(245, 245, 245, 0.4);
